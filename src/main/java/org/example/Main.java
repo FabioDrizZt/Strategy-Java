@@ -1,4 +1,6 @@
 package org.example;
+import org.example.strategy.BlackFridayDiscountStrategy;
+import org.example.strategy.SeasonalDiscountStrategy;
 
 public class Main {
     public static void main(String[] args) {
